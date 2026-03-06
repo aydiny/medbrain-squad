@@ -135,3 +135,27 @@ with specific findings and redacted-safe alternatives.
 git clone https://github.com/aydiny/medbrain-squad
 cd medbrain-squad
 pip install -r requirements.txt
+```
+
+See notebooks/ for step-by-step training pipelines
+See src/ for inference and pipeline scripts 
+
+## 📋 Requirements
+Python 3.10+
+
+CUDA-capable GPU (tested on dual NVIDIA T4)
+
+transformers, peft, trl, bitsandbytes, torch
+
+## 🏥 Deployment Context
+MBS is designed for GDPR-compliant, edge-first deployment —
+targeting NHS Trusts, EU hospital networks, and clinical
+environments where patient data cannot leave local infrastructure.
+The 4B parameter footprint allows deployment on hospital servers
+or practitioner workstations.
+
+👤 Author
+Aydin Yildiz
+
+
+
