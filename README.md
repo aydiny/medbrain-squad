@@ -118,14 +118,12 @@ with specific findings and redacted-safe alternatives.
 **Current limitations:**
 - Auditor SFT dataset size limits robustness on rare edge cases
 - No confidence gating layer before EHR injection
-- Circuit breaker on Auditor ↔ Error Editor loop needs hardening
 
 **v2 Roadmap:**
 - [ ] Rebuild orchestration layer in **LangGraph** (StateGraph)
 - [ ] Add confidence gating: low-confidence → human review queue
-- [ ] Expand Auditor adversarial dataset to 5,000+ rows
+- [ ] Expand Auditor adversarial dataset to 2,000+ rows
 - [ ] FastAPI wrapper for hospital server deployment
-- [ ] Multimodal input support (X-ray images via MedGemma vision)
 
 ---
 
