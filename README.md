@@ -32,7 +32,7 @@ agentic workflow**.
 
 ## 🏗️ Architecture: The Clinical Safety Net
 
-![MedBrainSquad Agentic Workflow](assets/workflow.png)
+![MedBrainSquad Agentic Workflow](assets/workflow.jpg)
 
 MBS implements a **five-stage adversarial pipeline**:
 
