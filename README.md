@@ -1,7 +1,7 @@
 # 🏥 MedBrainSquad (MBS): Clinical Safety Net
 
 
-<img width="1024" height="512" alt="image" src="https://github.com/user-attachments/assets/5996f61a-0bf7-464d-94fe-fce8543f5dd4" />
+![MedBrainSquad Agentic Workflow](assets/workflow.jpg)
 
 > A three-tier adversarial agentic AI system for safe, 
 > privacy-preserving clinical documentation — 
@@ -35,7 +35,6 @@ agentic workflow**.
 
 ## 🏗️ Architecture: The Clinical Safety Net
 
-![MedBrainSquad Agentic Workflow](assets/workflow.jpg)
 
 MBS implements a **five-stage adversarial pipeline**:
 
