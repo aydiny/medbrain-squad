@@ -1,7 +1,8 @@
-# 🏥 MedBrainSquad (MBS): Clinical Safety Net
+# 🏥 MedBrainSquad (MBS): Clinical Assistant for Physicians
 
 
-![MedBrainSquad Agentic Workflow](assets/workflow.jpg)
+<img width="1521" height="802" alt="image" src="https://github.com/user-attachments/assets/c0c19c92-befc-4c76-aa46-2b2c10103721" />
+
 
 > A three-tier adversarial agentic AI system for safe, 
 > privacy-preserving clinical documentation — 
