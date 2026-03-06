@@ -1,5 +1,8 @@
 # 🏥 MedBrainSquad (MBS): Clinical Safety Net
 
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/5996f61a-0bf7-464d-94fe-fce8543f5dd4" />
+
 > A three-tier adversarial agentic AI system for safe, 
 > privacy-preserving clinical documentation — 
 > designed for edge deployment in regulated environments.
