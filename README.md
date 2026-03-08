@@ -157,16 +157,18 @@ The 4B parameter footprint allows deployment on hospital servers
 or practitioner workstations.
 
 ## Repo Structure
+```
 medbrain-squad/
 ├── README.md
 ├── requirements.txt
 ├── LICENSE
 ├── assets/
-│   └── workflow.png
+│   └── workflow.jpg
 └── notebooks/
-    ├── synthetic_data_generation.ipynb
-    ├── medbrain-squad_SFT_github.ipynb
-    └── medbrain-squad_workflow_v0-1.ipynb
+    ├── 00_synthetic_data_generation.ipynb
+    ├── 01_medbrain-squad_SFT_github.ipynb
+    └── 02_medbrain-squad_workflow_v0-1.ipynb
+```
 
 
 
