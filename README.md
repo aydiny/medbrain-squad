@@ -13,6 +13,7 @@
 ![Model](https://img.shields.io/badge/Model-MedGemma%201.5%204B-green)
 ![Framework](https://img.shields.io/badge/Fine--tuning-LoRA%20%2F%20PEFT-orange)
 ![Privacy](https://img.shields.io/badge/Privacy-100%25%20Local%20%7C%20GDPR--Ready-red)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
 
@@ -156,6 +157,14 @@ environments where patient data cannot leave local infrastructure.
 The 4B parameter footprint allows deployment on hospital servers
 or practitioner workstations.
 
+## 🔗 Project Resources
+
+| Resource | Link |
+|----------|------|
+| 🤗 Scribe Adapter | [medbrain-squad-scribe](https://huggingface.co/aydin237/medbrain-squad-scribe) |
+| 🤗 Auditor Adapter | [medbrain-squad-auditor](https://huggingface.co/aydin237/medbrain-squad-auditor) |
+| 🚀 Interactive Demo | To be added 
+
 ## Repo Structure
 ```
 medbrain-squad/
@@ -171,9 +180,10 @@ medbrain-squad/
 ```
 
 
-
-👤 Author
-Aydin Yildiz
+## 👤 Author
+**Ali Aydin Yildiz**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/ali-aydin-yildiz)
+[![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace-yellow)](https://huggingface.co/aydin237)
 
 
 
