@@ -156,6 +156,20 @@ environments where patient data cannot leave local infrastructure.
 The 4B parameter footprint allows deployment on hospital servers
 or practitioner workstations.
 
+## Repo Structure
+medbrain-squad/
+├── README.md
+├── requirements.txt
+├── LICENSE
+├── assets/
+│   └── workflow.png
+└── notebooks/
+    ├── synthetic_data_generation.ipynb
+    ├── medbrain-squad_SFT_github.ipynb
+    └── medbrain-squad_workflow_v0-1.ipynb
+
+
+
 👤 Author
 Aydin Yildiz
 
